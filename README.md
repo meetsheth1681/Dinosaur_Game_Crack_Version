@@ -7,5 +7,5 @@ Chrome's default game crack version
  Logic behind the code : "You just have to change (Runner.prototype.gameOver) fuction and make it to empty function"
  
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JU_6MeHmzZ4/0.jpg)](https://youtu.be/JU_6MeHmzZ4)
- OR
- if you want to see demo please go to issues section
+ 
+
